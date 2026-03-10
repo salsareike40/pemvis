@@ -1,3 +1,7 @@
+#NAMA: SALSA REIKE MAHARANI
+#NIM: F1D02310136
+#KELAS: C
+
 import sys
 from PySide6.QtWidgets import (
     QApplication, QWidget, QLabel, QLineEdit,
