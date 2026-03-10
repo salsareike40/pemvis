@@ -1,5 +1,5 @@
 # pemvis
-Gambar 1 tugas3 admin dengan password 12345 (![tugas3 admin dengan password 12345](image.png))
+Gambar 1 tugas3 admin dengan password 12345 (![tugas3 admin dengan password 12345](tugas3 admin dengan password 12345.png))
 
 Gambar 2 tugas3 user123 dengan password 12345 (![tugas3 user123 dengan password 12345](image-1.png))
 
